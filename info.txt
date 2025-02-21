@@ -1,0 +1,12 @@
+Nome: Pedro
+Peso: 50 Kg
+Altura: 1.5 metros
+Data: 12/12/2025
+IMC: 22.22 (Peso normal)
+
+Nome: Pedro
+Peso: 60 Kg
+Altura: 1.7 metros
+Data: 12/12/2025
+IMC: 20.76 (Peso normal)
+
